@@ -1,7 +1,7 @@
 .Card-Components {
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 2px 12px rgba(70,70,70,0.08);
+  box-shadow: 0 2px 12px rgba(70, 70, 70, 0.08);
   padding: 0 0 18px 0;
   width: 200px;
   transition: transform 0.2s;
@@ -28,4 +28,3 @@
   gap: 28px;
 }
 
-/* You can keep the rest of your styling for responsive design and other elements */
